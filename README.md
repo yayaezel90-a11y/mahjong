@@ -1,0 +1,2 @@
+# mahjong
+100wd
